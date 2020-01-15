@@ -1,14 +1,3 @@
-
-#faff
-faff.R
-
-
-# Tell it to ignore big files
-data/
-*.pdf
-*.docx
-*.xls
-
 # History files
 .Rhistory
 .Rapp.history

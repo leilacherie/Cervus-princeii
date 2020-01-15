@@ -22,4 +22,22 @@ mydata <-read.csv("")
 # should commit regularly in chunks rather than at the end of each day
 # small simple files only (not, see above)
 
-I love buscuits
+# helpfile = website called ohshitgit  !
+# can use it to see how to revert a commit
+
+
+# can revert or reset a commit - 2 different ways of undoing things
+
+I love unicornss
+
+
+
+
+
+
+
+
+
+
+
+
