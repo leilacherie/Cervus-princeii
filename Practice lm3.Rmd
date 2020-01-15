@@ -6,6 +6,8 @@ output: html_document
 ---
 
 ```{r}
+
+library(tidyverse)
 lm3 <- read.csv("lm3.csv")
 head(lm3)
 
@@ -15,11 +17,18 @@ ggplot(lm3, aes(x = LENGTH, y= WIDTH)) +
   geom_point(colour = "green") +
   theme_bw() +
   xlab("Length (mm)") +
-  ylab("Anterior Width (mm)")
-  
-  
-
+  ylab("Anterior Width (mm)") +
+  stat_ellipse(colour = "purple")
 ```
+
+
+
+
+
+
+
+
+
 
 
 

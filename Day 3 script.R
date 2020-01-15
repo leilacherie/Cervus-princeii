@@ -23,3 +23,18 @@ mydata <-read.csv("")
 # small simple files only (not, see above)
 
 I love buscuits
+
+# https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git
+
+
+# How to archive code:
+# https://guides.github.com/activities/citable-code/
+
+
+
+
+
+
+
+
+
