@@ -1,5 +1,7 @@
 # Github training
 
+# Hi Leyla, what are you doing?
+
 # To add to Github, click tick box next to folder in Git tab
 # To commit, press commit button
 
